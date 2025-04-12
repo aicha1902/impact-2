@@ -1,0 +1,214 @@
+.bare1{
+    background-color: #007668;
+    gap: 20px;
+}
+.icone .bi{
+    margin-right: 10px;
+    background-color: #007668 !important;
+    gap: 20px;
+}
+.barnav{
+    background-color: #008374;
+}
+.started{
+    background-color: #1A9082;
+}
+.contain1{
+    position: relative;
+    height: 600px;
+    background-color: #008374 !important;
+}
+
+.cartes{
+    position: absolute;
+    z-index: 3;
+    height: 200px;
+    width: 250px;
+    /* margin-top: -80px; */
+    background-color: #008374 !important;
+}
+.feature{
+    margin-top: -80px;
+    margin-bottom: 200px;
+}
+.check{
+    color: #007668;
+    font-size: 24px;
+}
+.get{
+    background-color: #1A9082;
+}
+.background{
+    margin-top: 100px;
+    width: 100%;
+    height: 400px;
+    background-image: url(/img/cta-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+}
+.bord{
+    height: 5px;
+    width: 100px;
+    background-color: #007668;
+    border-top: 1 px solid  rgb(102, 141, 80);
+    border-radius: 5px;
+    margin: auto;
+}
+.boutton{
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(165, 209, 165);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon .bi{
+    font-size: 50px;
+    color: white;
+    
+}
+.i-cercle{
+    position: absolute;
+   /* margin-left:  10px !important; */
+
+}
+.cercle{
+    color: #F7F7F7 !important;
+    margin-left: 40px !important;
+    
+}
+.card .bi{
+    font-size: 50px;
+    /* margin-left: 50px; */
+}
+.rond{
+    color: gray;
+}
+.tof{
+    width: 50px;
+    height: 50px;
+    /* border-radius: 10% !important; */
+}
+/* .bordur{
+    border: 1px solid black;
+} */
+ .pad{
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 10px;
+ }
+ .i-pad{
+    display: flex;
+    gap: 5px;
+ }
+ .air{
+    width: 100px;
+    border-radius: 50%;
+    background-color: #007668;
+ }
+ .ok
+ {
+    height: 500px;
+ }
+ .card
+ {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ #tof
+{
+    height: 50px;
+    
+}
+#tof1
+{
+    height: 420px;
+}
+
+.bi
+{
+    height: 50px;
+    color: #007668;
+}
+#vid
+{
+    height: 90px;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+
+
+#tof4
+{
+    height: 250px;
+}
+#icone{
+    height: 50px;
+}
+.last
+{
+    background-image: url(img/cta-bg.jpg);
+    background-attachment:fixed;
+    background-size: cover;
+    height: 500px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 130px;
+}
+.last1
+{
+    height: 700px;
+
+}
+.h1
+{
+    margin-top: 70px;
+}
+
+@media screen and (max-width:800px) {
+    .ok4
+    {
+        display: flex;
+        flex-direction: column;
+        height: 1800px;
+    }
+    .about
+    {
+        height: 1500px;
+        display: flex;
+        flex-direction: column;
+    }
+    #tof1
+    {
+        height: 300px;
+    }
+
+    .avant
+    {
+        height: 900px;
+        display: flex;
+        
+    }
+    .av
+    {
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        justify-content: center;
+    }
+    
+}
