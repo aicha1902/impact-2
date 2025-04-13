@@ -208,9 +208,6 @@
         justify-content: center;
     }
     
-
-    height: 500px;
-}
 .bare1{
     background-color: #007668;
     gap: 20px;
@@ -301,12 +298,12 @@
     font-size: 50px;
     /* margin-left: 50px; */
 }
-.rond{
-    color: gra
+}
+
 .tof{
     width: 50px;
     height: 50px;
-    /* border-radius: 10% !important; */
+    border-radius: 10% !important;
 }
 /* .bordur{
     border: 1px solid black;
@@ -421,6 +418,16 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
+<<<<<<< HEAD
+        justify-content: center;
+    }
+    
+=======
+>>>>>>> aec5bedbcccb708e9f142f18780e0774fd4a9265
+=========
+>>>>>>>>> Temporary merge branch 2
+}
+=======
         justify-content: 
 }
     
@@ -557,3 +564,5 @@
 
  
  
+
+
