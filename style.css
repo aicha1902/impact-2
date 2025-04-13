@@ -84,10 +84,7 @@
     margin-left: 40px !important;
     
 }
-.card .bi{
-    font-size: 50px;
-    /* margin-left: 50px; */
-}
+
 .rond{
     color: gray;
 }
@@ -211,7 +208,7 @@
         justify-content: center;
     }
     
-<<<<<<< HEAD
+
     height: 500px;
 }
 .bare1{
@@ -305,8 +302,7 @@
     /* margin-left: 50px; */
 }
 .rond{
-    color: gray;
-}
+    color: gra
 .tof{
     width: 50px;
     height: 50px;
@@ -314,7 +310,9 @@
 }
 /* .bordur{
     border: 1px solid black;
-} */
+} *
+
+ 
  .pad{
     color: gray;
     border: 1px solid gray;
@@ -333,7 +331,6 @@
  .ok
  {
     height: 500px;
- }
  .card
  {
     height: 250px;
@@ -424,9 +421,5 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        justify-content: center;
-    }
-    
-=======
->>>>>>> aec5bedbcccb708e9f142f18780e0774fd4a9265
+        justify-content: 
 }
