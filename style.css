@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+.bord{
+    height: 5px;
+    width: 100px;
+    background-color: #007668;
+    border-top: 1 px solid  rgb(102, 141, 80);
+    border-radius: 5px;
+    margin: auto;
+}
+
+
+
+.i-cercle{
+    position: absolute;
+   /* margin-left:  10px !important; */
+
+}
+.cercle{
+    color: #F7F7F7 !important;
+    margin-left: 40px !important;
+    
+}
+.card .bi{
+    font-size: 50px;
+    /* margin-left: 50px; */
+}
+
+
+/* .bordur{
+    border: 1px solid black;
+} */
+ 
+ 
+ .card
+ {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+
+
+
+
+
+
